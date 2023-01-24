@@ -1,9 +1,9 @@
-[![MasterHead][![MasterHead](https://camo.githubusercontent.com/ae3afb981bdef9bb987bb33bcaceb705fd8c688293896c74b1ef43745c9b1b39/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3931303337343435323033323835323030392f313032313433363931393535383731373538302f426c75655f50726f66657373696f6e616c5f477261706869635f44657369676e65725f50726f66696c655f4c696e6b6564496e5f42616e6e65725f2e6769663f77696474683d31303235266865696768743d323536)
+[![MasterHead](https://camo.githubusercontent.com/ae3afb981bdef9bb987bb33bcaceb705fd8c688293896c74b1ef43745c9b1b39/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3931303337343435323033323835323030392f313032313433363931393535383731373538302f426c75655f50726f66657373696f6e616c5f477261706869635f44657369676e65725f50726f66696c655f4c696e6b6564496e5f42616e6e65725f2e6769663f77696474683d31303235266865696768743d323536)
 
 <h1 align="center">Hi 👋, I'm Srujal Shah</h1>
 <h3 align="center">A passionate web developer, content creator and UI/UX designer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techking007&label=Profile%20views&color=0e75b6&style=flat" alt="techking007" /> </p>
 
