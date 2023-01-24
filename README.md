@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Srujal Shah</h1>
 <h3 align="center">A passionate web developer, content creator and UI/UX designer from India</h3>
 
-<img align="right" alt="Coding" width="400" src=""
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techking007&label=Profile%20views&color=0e75b6&style=flat" alt="techking007" /> </p>
 
