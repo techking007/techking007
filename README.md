@@ -1,4 +1,4 @@
-[![MasterHead]
+[![MasterHead](https://github.com/techking007/techking007/blob/main/SRUJAL%20SHAH.gif)
 
 <h1 align="center">Hi 👋, I'm Srujal Shah</h1>
 <h3 align="center">A passionate web developer, content creator and UI/UX designer from India</h3>
