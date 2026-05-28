@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/techking007/techking007/blob/main/SRUJAL%20SHAH.gif)
 
 <h1 align="center">Hi 👋, I'm Srujal Shah</h1>
-<h3 align="center">A passionate web developer, content creator and UI/UX designer from India</h3>
+<h3 align="center">An Applied AI enthusiast, community builder, and product-focused creator from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
@@ -9,19 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/techking_007" target="blank"><img src="https://img.shields.io/twitter/follow/techking_007?logo=twitter&style=for-the-badge" alt="techking_007" /></a> </p>
 
-- 🔭 I’m currently working on [Helios](https://devfolio.co/projects/helios-a88d)
+- 🔭 I’m currently building AI-driven systems, workflow automations, and community-focused digital products.
 
-- 🌱 I’m currently learning **Frontend languages, node.js and Web3 languages.**
+- 🌱 I’m currently exploring **Applied AI, UX Research, Product Thinking, and scalable workflow systems.**
 
-- 👨‍💻 All of my projects are available at [srujal.carrd.co](srujal.carrd.co)
+- 📝 I regularly write about **AI, systems, communities, Web3, and digital growth.**
 
-- 📝 I regularly write articles on [https://medium.com/@techking_007](https://medium.com/@techking_007)
-
-- 💬 Ask me about **Blockchain, Web3, SEO, Digital Marketing and Content Writing.**
+- 💬 Ask me about **AI, Workflow Design, Product Strategy, Web3, SEO, Digital Marketing, and Community Building.**
 
 - 📫 How to reach me **itechking007@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/srujalshah/resume?authuser=0](https://sites.google.com/view/srujalshah/resume?authuser=0)
+- 📄 Know about my experiences [https://srujal.vercel.app/](https://srujal.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techking007&show_icons=true&locale=en" alt="techking007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techking007&" alt="techking007" /></p>
-
-
-
