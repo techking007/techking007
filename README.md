@@ -32,7 +32,7 @@
 | **<a href="https://apexialabs.in" target="_blank" rel="noopener noreferrer">Apexia Labs</a>** | Founder & MD. A creative engineering studio turning products into the obvious choice. |
 | **<a href="https://cursor.com" target="_blank" rel="noopener noreferrer">Cursor</a>** | Ambassador. Helping builders ship faster with AI-native workflows. |
 | **<a href="https://friends.figma.com/vadodara/" target="_blank" rel="noopener noreferrer">Friends of Figma, Vadodara</a>** | Community Advocate. Meetups and workshops for design, product, and AI folks. |
-| **<a href="https://linkedin.com/company/apexia-community" target="_blank" rel="noopener noreferrer">Apexia</a>** | Founder. Grew it to **1,000+ members** since 2024. |
+| **<a href="https://apexia.club/" target="_blank" rel="noopener noreferrer">Apexia</a>** | Founder. Grew it to **1,000+ members** since 2024. |
 
 <samp>Previously: AI Automation @Instinkt &nbsp;·&nbsp; AI Program @IBM x CSRBOX &nbsp;·&nbsp; Maxi @CoinDCX &nbsp;·&nbsp; Core Team @Web3Conf India</samp>
 
