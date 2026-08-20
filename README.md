@@ -7,19 +7,19 @@
 
 ### Srujal Shah
 
-<samp><b>Founder at <a href="https://apexialabs.in">Apexia Labs</a></b> &nbsp;·&nbsp; Vadodara, India</samp>
+<samp><b>Founder at <a href="https://apexialabs.in" target="_blank" rel="noopener noreferrer">Apexia Labs</a></b> &nbsp;·&nbsp; Vadodara, India</samp>
 
 <samp>I build AI-native products, the workflows behind them,<br/>and the communities they grow in.</samp>
 
 <br/>
 
-<a href="https://srujal.vercel.app"><img src="./srujal.png" width="32" height="32" alt="Portfolio"/></a>
+<a href="https://srujal.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./srujal.png" width="32" height="32" alt="Portfolio"/></a>
 &#8287;&#8287;
-<a href="https://linkedin.com/in/techking007"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/techking007" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
 &#8287;&#8287;
-<a href="https://twitter.com/techking_007"><img src="https://img.icons8.com/color/48/twitterx--v2.png" width="32" height="32" alt="X"/></a>
+<a href="https://twitter.com/techking_007" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/twitterx--v2.png" width="32" height="32" alt="X"/></a>
 &#8287;&#8287;
-<a href="mailto:srujal@apexialabs.in"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32" height="32" alt="Email"/></a>
+<a href="mailto:srujal@apexialabs.in" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32" height="32" alt="Email"/></a>
 
 </div>
 
@@ -29,10 +29,10 @@
 
 | | |
 |:--|:--|
-| **[Apexia Labs](https://apexialabs.in)** | Founder & MD. A creative engineering studio turning products into the obvious choice. |
-| **[Cursor](https://cursor.com)** | Ambassador. Helping builders ship faster with AI-native workflows. |
-| **[Friends of Figma, Vadodara](https://friends.figma.com/vadodara/)** | Community Advocate. Meetups and workshops for design, product, and AI folks. |
-| **[Apexia](https://linkedin.com/company/apexia-community)** | Founder. Grew it to **1,000+ members** since 2024. |
+| **<a href="https://apexialabs.in" target="_blank" rel="noopener noreferrer">Apexia Labs</a>** | Founder & MD. A creative engineering studio turning products into the obvious choice. |
+| **<a href="https://cursor.com" target="_blank" rel="noopener noreferrer">Cursor</a>** | Ambassador. Helping builders ship faster with AI-native workflows. |
+| **<a href="https://friends.figma.com/vadodara/" target="_blank" rel="noopener noreferrer">Friends of Figma, Vadodara</a>** | Community Advocate. Meetups and workshops for design, product, and AI folks. |
+| **<a href="https://linkedin.com/company/apexia-community" target="_blank" rel="noopener noreferrer">Apexia</a>** | Founder. Grew it to **1,000+ members** since 2024. |
 
 <samp>Previously: AI Automation @Instinkt &nbsp;·&nbsp; AI Program @IBM x CSRBOX &nbsp;·&nbsp; Maxi @CoinDCX &nbsp;·&nbsp; Core Team @Web3Conf India</samp>
 
@@ -76,6 +76,6 @@
 
 <div align="center">
 <samp>
-<a href="https://apexialabs.in">apexialabs.in</a> &nbsp;·&nbsp; <a href="https://srujal.vercel.app">srujal.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:srujal@apexialabs.in">srujal@apexialabs.in</a>
+<a href="https://apexialabs.in" target="_blank" rel="noopener noreferrer">apexialabs.in</a> &nbsp;·&nbsp; <a href="https://srujal.vercel.app" target="_blank" rel="noopener noreferrer">srujal.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:srujal@apexialabs.in" target="_blank" rel="noopener noreferrer">srujal@apexialabs.in</a>
 </samp>
 </div>
