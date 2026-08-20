@@ -15,11 +15,11 @@
 
 <a href="https://srujal.vercel.app"><img src="./srujal.png" width="32" height="32" alt="Portfolio"/></a>
 &#8287;&#8287;
-<a href="https://linkedin.com/in/techking007"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/techking007"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
 &#8287;&#8287;
-<a href="https://twitter.com/techking_007"><img src="https://img.shields.io/badge/twitter-1f2328?style=flat-square&logo=x&logoColor=8b949e" alt="X"/></a>
-&#8287;
-<a href="mailto:srujal@apexialabs.in"><img src="https://img.shields.io/badge/email-1f2328?style=flat-square&logo=maildotru&logoColor=8b949e" alt="Email"/></a>
+<a href="https://twitter.com/techking_007"><img src="https://img.icons8.com/color/48/twitterx--v2.png" width="32" height="32" alt="X"/></a>
+&#8287;&#8287;
+<a href="mailto:srujal@apexialabs.in"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32" height="32" alt="Email"/></a>
 
 </div>
 
