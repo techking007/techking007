@@ -5,10 +5,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="42" height="42" alt="Laptop">
 </picture>
 
-<h3>
-  Srujal Shah
-  <a href="https://linkedin.com/in/techking007"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="LinkedIn" /></a>
-</h3>
+### Srujal Shah
 
 <samp><b>Founder at <a href="https://apexialabs.in">Apexia Labs</a></b> &nbsp;·&nbsp; Vadodara, India</samp>
 
@@ -16,10 +13,10 @@
 
 <br/>
 
-<a href="https://srujal.vercel.app"><img src="https://img.shields.io/badge/portfolio-1f2328?style=flat-square&logo=vercel&logoColor=8b949e" alt="Portfolio"/></a>
-&#8287;
-<a href="https://linkedin.com/in/techking007"><img src="https://img.shields.io/badge/linkedin-1f2328?style=flat-square&logo=linkedin&logoColor=8b949e" alt="LinkedIn"/></a>
-&#8287;
+<a href="https://srujal.vercel.app"><img src="./srujal.png" width="32" height="32" alt="Portfolio"/></a>
+&#8287;&#8287;
+<a href="https://linkedin.com/in/techking007"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn"/></a>
+&#8287;&#8287;
 <a href="https://twitter.com/techking_007"><img src="https://img.shields.io/badge/twitter-1f2328?style=flat-square&logo=x&logoColor=8b949e" alt="X"/></a>
 &#8287;
 <a href="mailto:srujal@apexialabs.in"><img src="https://img.shields.io/badge/email-1f2328?style=flat-square&logo=maildotru&logoColor=8b949e" alt="Email"/></a>
