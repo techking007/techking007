@@ -29,10 +29,10 @@
 
 | | |
 |:--|:--|
-| **<a href="https://apexialabs.in" target="_blank" rel="noopener noreferrer">Apexia Labs</a>** | Founder & MD. A creative engineering studio turning products into the obvious choice. |
-| **<a href="https://cursor.com" target="_blank" rel="noopener noreferrer">Cursor</a>** | Ambassador. Helping builders ship faster with AI-native workflows. |
-| **<a href="https://friends.figma.com/vadodara/" target="_blank" rel="noopener noreferrer">Friends of Figma, Vadodara</a>** | Community Advocate. Meetups and workshops for design, product, and AI folks. |
-| **<a href="https://apexia.club/" target="_blank" rel="noopener noreferrer">Apexia</a>** | Founder. Grew it to **1,000+ members** since 2024. |
+| <a href="https://apexialabs.in" target="_blank" rel="noopener noreferrer"><img src="./logos/apexia-labs.png" height="32" alt="Apexia Labs"/></a> | Founder & MD. A creative engineering studio turning products into the obvious choice. |
+| <a href="https://cursor.com" target="_blank" rel="noopener noreferrer"><img src="./logos/cursor.png" height="32" alt="Cursor"/></a> | Ambassador. Helping builders ship faster with AI-native workflows. |
+| <a href="https://friends.figma.com/vadodara/" target="_blank" rel="noopener noreferrer"><img src="./logos/friends-of-figma-vadodara.png" height="32" alt="Friends of Figma, Vadodara"/></a> | Community Advocate. Meetups and workshops for design, product, and AI folks. |
+| <a href="https://apexia.club/" target="_blank" rel="noopener noreferrer"><img src="./logos/apexia.png" height="32" alt="Apexia"/></a> | Founder. Grew it to **1,000+ members** since 2024. |
 
 <samp>Previously: AI Automation @Instinkt &nbsp;·&nbsp; AI Program @IBM x CSRBOX &nbsp;·&nbsp; Maxi @CoinDCX &nbsp;·&nbsp; Core Team @Web3Conf India</samp>
 
