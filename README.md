@@ -13,13 +13,13 @@
 
 <br/>
 
-<a href="https://srujal.vercel.app" target="_blank" rel="noopener noreferrer"><img src="./srujal.png" width="32" height="32" alt="Portfolio"/></a>
+<a href="https://srujal.in" target="_blank" rel="noopener noreferrer"><img src="./srujal.png" width="32" height="32" alt="Portfolio"/></a>
 &#8287;&#8287;
 <a href="https://linkedin.com/in/techking007" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
 &#8287;&#8287;
 <a href="https://twitter.com/techking_007" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/twitterx--v2.png" width="32" height="32" alt="X"/></a>
 &#8287;&#8287;
-<a href="mailto:srujal@apexialabs.in" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32" height="32" alt="Email"/></a>
+<a href="mailto:sup@srujal.in" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32" height="32" alt="Email"/></a>
 
 </div>
 
