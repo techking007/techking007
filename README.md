@@ -76,6 +76,6 @@
 
 <div align="center">
 <samp>
-<a href="https://apexialabs.in" target="_blank" rel="noopener noreferrer">apexialabs.in</a> &nbsp;·&nbsp; <a href="https://srujal.vercel.app" target="_blank" rel="noopener noreferrer">srujal.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:srujal@apexialabs.in" target="_blank" rel="noopener noreferrer">srujal@apexialabs.in</a>
+<a href="https://apexialabs.in" target="_blank" rel="noopener noreferrer">apexialabs.in</a> &nbsp;·&nbsp; <a href="https://srujal.vercel.app" target="_blank" rel="noopener noreferrer">srujal.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:sup@srujal.in" target="_blank" rel="noopener noreferrer">sup@srujal.in</a>
 </samp>
 </div>
